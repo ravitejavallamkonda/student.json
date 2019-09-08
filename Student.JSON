@@ -1,0 +1,73 @@
+[
+  {
+    "Name": "Candidate1",
+    "AccNumber": "1",
+    "Source": "Web",
+    "Site": "www.gmail.com",
+    "Email": "Candidate1@gmail.com"
+  },
+  {
+    "Name": "Candidate2",
+    "AccNumber": "2",
+    "Source": "Phone Inquiry",
+    "Site": "www.yahoo.com",
+    "Email": "Candidate2@yahoo.com"
+  },
+  {
+    "Name": "Candidate3",
+    "AccNumber": "3",
+    "Source": "Partner Referral",
+    "Site": "www.hotmail.com",
+    "Email": "Candidate3@hotmail.com"
+  },
+  {
+    "Name": "Candidate4",
+    "AccNumber": "4",
+    "Source": "Partner Referral",
+    "Site": "www.rediff.com",
+    "Email": "Candidate4@rediffmail.com"
+  },
+  {
+    "Name": "Candidate5",
+    "AccNumber": "5",
+    "Source": "Purchased List",
+    "Site": "www.hotmail.com",
+    "Email": "Candidate5@hotmail.com"
+  },
+  {
+    "Name": "Candidate6",
+    "AccNumber": "6",
+    "Source": "Purchased List",
+    "Site": "www.hotmail.com",
+    "Email": "Candidate6@hotmail.com"
+  },
+  {
+    "Name": "Candidate7",
+    "AccNumber": "7",
+    "Source": "Web",
+    "Site": "www.ymail.com",
+    "Email": "Candidate7@ymail.com"
+  },
+  {
+    "Name": "Candidate8",
+    "AccNumber": "8",
+    "Source": "Other",
+    "Site": "www.rocketmail.com",
+    "Email": "Candidate8@rocketmail.com"
+  },
+  {
+    "Name": "Candidate9",
+    "AccNumber": "9",
+    "Source": "Other",
+    "Site": "www.mail.com",
+    "Email": "Candidate9@mail.com"
+  },
+  {
+    "Name": "Candidate10",
+    "AccNumber": "10",
+    "Source": "Call",
+    "Site": "www.rocketmail.com",
+    "Email": "Candidate10@rocketmail.com"
+  }
+  
+]
